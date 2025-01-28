@@ -1,0 +1,13 @@
+{
+  "name": "weather-fetcher",
+  "version": "1.0.0",
+  "description": "Weather fetching utility using OpenWeatherMap API",
+  "main": "fetch-weather.ts",
+  "scripts": {
+    "start": "ts-node fetch-weather.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+} 
